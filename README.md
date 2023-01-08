@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KsRenu/Portfolio](https://github.com/KsRenu/Portfolio)
 
-- 📝 I regularly write articles on [medium.com/@renuks0802](medium.com/@renuks0802)
-
 - 📫 How to reach me **renuks0802@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/2jhunr](https://rb.gy/2jhunr)
