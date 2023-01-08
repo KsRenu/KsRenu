@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **the Microsoft documentation modules and implementing side by side.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KsRenu/Portfolio](https://github.com/KsRenu/Portfolio)
-
 - 📫 How to reach me **renuks0802@gmail.com**
 
 - 📄 Know about my experiences [https://rb.gy/2jhunr](https://rb.gy/2jhunr)
