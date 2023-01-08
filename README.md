@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Renu Konda</h1>
+<h1 align="center">Hi 👋, I'm Renu Suresh</h1>
 <h3 align="center">Computer Science Novice, who Loves to code and passionately curious to exploit it . Currently Working on C ,Python and Machine Learning .</h3>
 
 - 🔭 I’m currently working on **Pandas**
