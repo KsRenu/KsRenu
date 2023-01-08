@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **renuks0802@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18IvEB-YYG7774-B7iddWjLJWM0tyoh1R/view?usp=sharing](https://drive.google.com/file/d/18IvEB-YYG7774-B7iddWjLJWM0tyoh1R/view?usp=sharing)
+- 📄 Know about my experiences [https://rb.gy/2jhunr](https://rb.gy/2jhunr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
