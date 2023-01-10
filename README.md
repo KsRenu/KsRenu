@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **the Microsoft documentation modules and implementing side by side.**
 
-- 📫 How to reach me **renuks0802@gmail.com**
+- 📫 How to reach me **https://linktr.ee/renuks0802**
 
 - 📄 Know about my experiences [https://rb.gy/2jhunr](https://rb.gy/2jhunr)
 
