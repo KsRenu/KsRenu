@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Renu Suresh</h1>
-<h3 align="center">Computer Science Novice, who Loves to code and passionately curious to exploit it .</h3>
+<h3 align="center">Computer Science Novice, who Loves to code and is passionately curious to exploit it .</h3>
 
-- 🔭 I’m currently working on [C# and .NET](https://github.com/KsRenu/C-sharp_learnings.git)
+- 🔭 I’m currently working on Testing
 
-- 🌱 I’m currently learning **the Microsoft documentation modules and implementing side by side.**
+- 🌱 I’m currently learning **through a internship and implementing them side by side.**
 
 - 📫 How to reach me **https://linktr.ee/renuks0802**
 
